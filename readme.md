@@ -13,6 +13,7 @@ This application would help in doing the annotations of the image dataset. Then 
 
  <!-- [![https://www.youtube.com/embed/ZICO88vXu6Y?si=IlZYirZS42934Y0r](https://www.youtube.com/embed/ZICO88vXu6Y?si=IlZYirZS42934Y0r)]() -->
 **Youtube Demo Video**
+
 [![Youtube Demo Video](https://img.youtube.com/vi/ZICO88vXu6Y/0.jpg)](https://www.youtube.com/watch?v=ZICO88vXu6Y)
 <!-- 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyf8ltwo2ur4hxwd6c50.png) -->
@@ -22,6 +23,10 @@ This application would help in doing the annotations of the image dataset. Then 
 
 ## My Code
 <!-- Share a link to your code (Tip: you can embed GitHub projects directly into this post). -->
+
+- backend Fastapi : https://github.com/suyash-srivastava-dev/annotation-editor-backend
+- frontend Angular : https://github.com/suyash-srivastava-dev/annotation-editor
+
 
 ## Flow Diagram
 
@@ -70,10 +75,6 @@ const url = await pinata.gateways.createSignedURL({
     console.log(url)
 ```
 
-## Backend & Frontend Code Repo
-
-- backend Fastapi : https://github.com/suyash-srivastava-dev/annotation-editor-backend
-- frontend Angular : https://github.com/suyash-srivastava-dev/annotation-editor
 
 
 ## More Details
