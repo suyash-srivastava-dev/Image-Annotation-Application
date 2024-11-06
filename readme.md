@@ -12,7 +12,7 @@ This application would help in doing the annotations of the image dataset. Then 
 <!-- Share a link to your application and include some screenshots here. -->
 
  <!-- [![https://www.youtube.com/embed/ZICO88vXu6Y?si=IlZYirZS42934Y0r](https://www.youtube.com/embed/ZICO88vXu6Y?si=IlZYirZS42934Y0r)]() -->
-
+**Youtube Demo Video**
 [![Youtube Demo Video](https://img.youtube.com/vi/ZICO88vXu6Y/0.jpg)](https://www.youtube.com/watch?v=ZICO88vXu6Y)
 <!-- 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyf8ltwo2ur4hxwd6c50.png) -->
